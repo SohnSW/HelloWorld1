@@ -1,0 +1,17 @@
+git init .git파일 이니셜라이징
+ --> 버전 관리 정보 저장
+
+git add .
+전체 파일 임시로 올리기
+
+git status 
+상태 확인
+
+git remote add origin repository 주소
+repo와 현재 깃 연결 가장 먼저 해야함
+
+git commit -m "메세지"
+commit with msg
+
+git push origin 브랜치이름
+브랜치이름 브랜치로 원격에 올리기
