@@ -15,3 +15,5 @@ commit with msg
 
 git push origin 브랜치이름
 브랜치이름 브랜치로 원격에 올리기
+
+student 브랜치에 추가할 내용
